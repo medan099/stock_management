@@ -1,5 +1,9 @@
 # Stock Management Web Application
 
+You can check th demo here : 
+https://www.youtube.com/watch?v=Ubje_ilnCjs
+
+
 ## Project Objective
 The aim of this project is to develop a web application for stock management dedicated to the Eagle Vizion team, a Canadian company, to gain better control over their inventory and manage resources for each project. To avoid synchronization issues among different stakeholders, it was decided to use a stock management tool that allows visualization of existing products and their allocation to ongoing projects.
 
