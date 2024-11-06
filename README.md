@@ -1,6 +1,6 @@
 # Stock Management Web Application
 
-You can check th demo here : 
+**You can check th demo here : **
 https://www.youtube.com/watch?v=Ubje_ilnCjs
 
 
